@@ -1,4 +1,4 @@
-# Sistema-de-gerenciamento-de-clientes-para-profissionais-autonomos
+# Sistema-de-gerenciamento-de-clientes-para-profissionais- autônomos
 O sistema desenvolvido em python tem como principal função realizar o cadastro de clientes e auxiliar o seu gerenciamento. 
 ## Sistema de Gerenciamento de Clientes 
 
